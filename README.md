@@ -6,7 +6,7 @@
 
 Hi, i'm [Suen ChunYu!](https://github.com/suenchunyu), a passionate Software Developer 🚀 from Henan, China. Now i working in Haidian.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/suenchunyu/suenchunyu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Taking about some Personal Stuffs:**
 
@@ -41,6 +41,6 @@ JavaScript   32 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suenchunyu&show_icons=true&theme=gotham" alt="suenchunyu" />
