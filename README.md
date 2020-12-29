@@ -45,6 +45,9 @@ Docker     9 mins          ▒░░░░░░░░░░░░░░░░�
 📈 **My GitHub Stats**
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suenchunyu&column=7&theme=onedark"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suenchunyu&show_icons=true&theme=gotham&count_private=true" alt="suenchunyu" width="420">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suenchunyu&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
