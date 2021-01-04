@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=suenchunyu.suenchunyu)
 <br />
 
-Hi, i'm [Suen ChunYu!](https://github.com/suenchunyu), a passionate Software Developer 🚀 from Henan, China. Now i working in Haidian, Beijing.
+Hi, i'm [Suen ChunYu](https://github.com/suenchunyu)!, a passionate Software Developer 🚀 from Henan, China. Now i working in Haidian, Beijing.
 
 <img align="right" alt="GIF" src="https://github.com/suenchunyu/suenchunyu/blob/main/code.gif?raw=true" width="500" height="320" />
 
