@@ -45,5 +45,5 @@ Markdown   19 mins         ▒░░░░░░░░░░░░░░░░�
 📈 **My GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suenchunyu&show_icons=true&theme=gotham&count_private=true" alt="suenchunyu">
+  <img src="https://github-readme-stats.vercel.app/api?username=suenchunyu&show_icons=true&theme=light&count_private=true" alt="suenchunyu">
 </p>
