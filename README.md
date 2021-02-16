@@ -34,8 +34,7 @@ Hi, i'm [Suen ChunYu](https://github.com/suenchunyu)!, a passionate Software Dev
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-HTML         7 mins          ████████████░░░░░░░░░░░░░   47.71 % 
-Git Config   7 mins          ███████████▓░░░░░░░░░░░░░   46.46 % 
+HTML   7 mins          ████████████████████████▒   97.62 % 
 ```
 <!--END_SECTION:waka-->
 
