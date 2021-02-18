@@ -34,7 +34,7 @@ Hi, i'm [Suen ChunYu](https://github.com/suenchunyu)!, a passionate Software Dev
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 
