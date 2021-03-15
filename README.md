@@ -34,9 +34,7 @@ Hi, i'm [Suen ChunYu](https://github.com/suenchunyu)!, a passionate Software Dev
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TeX      45 mins         ███████████████████████▒░   93.19 % 
-Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
